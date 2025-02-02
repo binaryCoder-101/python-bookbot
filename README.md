@@ -1,1 +1,1 @@
-# bookbot
+# python-bookbot
