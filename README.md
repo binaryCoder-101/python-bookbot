@@ -1,3 +1,3 @@
 # python-bookbot
 
-BookBot is my first project!
+A simple bookbot CLI which will parse a given book and generate a report.
